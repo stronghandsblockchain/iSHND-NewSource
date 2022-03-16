@@ -1,5 +1,3 @@
-# iSHND-NewSource
-
 <p align="center">
   <img width="200" height="200" src="https://github.com/stronghandsblockchain/Logos/blob/main/ISHND/svg/STRONGHANDS%20-%201.svg">
 
