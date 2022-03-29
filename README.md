@@ -3,6 +3,7 @@
 
 
 ![](https://img.shields.io/badge/Token-BEP20-informational?style=for-the-badge&logo=F0B90B)
+![](https://img.shields.io/github/languages/top/stronghandsblockchain/ISHND-NewSource?style=for-the-badge)
 ![In Development](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 <img alt="Discord" src="https://img.shields.io/discord/396700779618107394?style=for-the-badge">
 ![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)
