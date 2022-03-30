@@ -10,6 +10,24 @@
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)
 
 
+# About StrongHands Finance 
+  
+StrongHands Finance (ISHND) is a Token of the StrongHands Crosschain ecosystem. An increasing demand among our community inspired us to move to a Defi Ecosystem by integrating our 1st generation blockchains to a descentralized protocol who connects to the most popular networks as Binance Smart Chain, Polygon Network, Tron and Ethereum.
+
+iSHND aims to make token trading easy to newbie users, while improving efficiency of trading versus de CEX exchanges.
+
+Multichain Ecosystem: We are one of the first Blockchain community to give access to all the blockchain technology available: SHND Sha256 coin (minning and stake), SHMN (PIVX Fork Masternode) ISHND (MultiChain DeFi Token).
+
+Transparent trading: iSHND will be one of the most popular tokens traded in decentralized exchanges. No signup, non custodial and no counterparty risk.
+
+## DeFi CrossChain dApps
+
+Crosschain bridge, Swap/Liquidity Pools, Yield Farms, Futures, Lending and many other dApps, available at Descentralized and Centralized platforms in Binance, Ethereum, Solana, Tron and Polygon Networks.
+
+## The Future of StrongHands
+
+iSHND is born to bring equity and liquidity to the whole StrongHands ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. Our purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
+  
 <h4 align="center"> 
 :construction: In construction :construction:
 </h4>
