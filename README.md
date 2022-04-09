@@ -34,7 +34,7 @@ iSHND is born to bring equity and liquidity to the whole StrongHands ecosystem. 
   
   Contract Address: [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
   
-  [Litepaper](https://github.com/stronghandsblockchain/iSHND-NewSource/blob/main/StrongHands%20Finance%20Litepaper.pdf)
+  [Litepaper](https://github.com/stronghandsblockchain/iSHND-NewSource/blob/main/Litepaper.pdf)
   
 ## Official Social Media
   
