@@ -28,6 +28,28 @@ Crosschain bridge, Swap/Liquidity Pools, Yield Farms, Futures, Lending and many 
 
 iSHND is born to bring equity and liquidity to the whole StrongHands ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. Our purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
   
-<h4 align="center"> 
-:construction: In construction :construction:
-</h4>
+## Resources
+
+  Website: http://www.stronghands.info and http://wwww.stronghands.io
+  
+  Contract Address: [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
+  
+  Litepaper: 
+  
+## Official Social Media
+  
+  * [GitHub](https://github.com/stronghandsblockchain)
+  * [Discord](https://discord.com/invite/WrA8TNXaa5)
+  * [Telegram Channel](https://t.me/stronghandsofficial)
+  * [Telegram Global Chat](https://t.me/StrongHands)
+  * [Twitter](https://twitter.com/shndofficial)
+  * [Reddit](https://www.reddit.com/r/stronghandsblockchain/)
+  * [Facebook](https://www.facebook.com/shndchain)
+  * [Instagram](https://www.instagram.com/stronghandsblockchain/)
+  * [LinkedIn](https://www.linkedin.com/company/stronghands-blockchain/)
+  * [Youtube](https://www.youtube.com/channel/UCazb7de4MDBFaWvnoCPvN-Q)
+  
+  
+  
+  
+
