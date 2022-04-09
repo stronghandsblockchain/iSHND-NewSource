@@ -50,6 +50,23 @@ iSHND is born to bring equity and liquidity to the whole StrongHands ecosystem. 
   * [Youtube](https://www.youtube.com/channel/UCazb7de4MDBFaWvnoCPvN-Q)
   
   
+  ### International Communities
+  
+  * 🇯🇵 [Discord Japan](https://discord.gg/566pKM6)
+  * 🇻🇳 [Discord Vietnam](https://discord.gg/UTBB8CHxbK)
+  * 🌍 [Telegram Africa (French)](https://t.me/StrongHandsAfrica)
+  * 🇧🇷 [Telegram Brazil](https://t.me/StrongHandsBrasil)
+  * 🇮🇩 [Telegram Bahasa/Indonesian](https://t.me/StrongHandsIndonesia)
+  * 🇧🇩 [Telegram Bangladesh](https://t.me/StrongHandsBangladesh)
+  * 🇪🇸 [Telegram Castellano/Spanish](https://t.me/StrongHandsCastellano)
+  * 🇳🇱 [Telegram Dutch](https://t.me/StrongHandsDutch)
+  * 🇫🇷 [Telegram French](https://t.me/StrongHandsFrance)
+  * 🇮🇳 [Telegram Hindi](https://t.me/StrongHandsHindi)
+  * 🇯🇵 [Telegram Japan](https://t.me/StrongHands_Japan)
+  * 🇹🇷 [Telegram Turkish](https://t.me/StrongHandsTurkey)
+  * 🇷🇺 [Telegram Russia](https://t.me/StrongHandsRussia)
+  
+  
   
   
 
