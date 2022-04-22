@@ -2,17 +2,17 @@
   <img width="200" height="200" src="https://github.com/stronghandsblockchain/Logos/blob/main/ISHND/svg/STRONGHANDS%20-%201.svg">
 
 
-![](https://img.shields.io/badge/Token-BEP20-informational?style=for-the-badge&logo=F0B90B)
+![](https://img.shields.io/badge/Token-Crosschain-informational?style=for-the-badge&logo=F0B90B)
 ![](https://img.shields.io/github/languages/top/stronghandsblockchain/ISHND-NewSource?style=for-the-badge)
 ![In Development](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
-<img alt="Discord" src="https://img.shields.io/discord/396700779618107394?style=for-the-badge">
-![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)
-![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)
+[![Discord](https://img.shields.io/discord/396700779618107394?style=for-the-badge)](https://discord.gg/WrA8TNXaa5)
+[![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)](https://twitter.com/shndofficial)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)](https://www.reddit.com/r/stronghandsblockchain/)
 
 
-# About StrongHands Finance 
+# About [StrongHands Finance](https://coinmarketcap.com/currencies/stronghands-finance/markets/) 
   
-StrongHands Finance (ISHND) is a Token of the StrongHands Crosschain ecosystem. An increasing demand among our community inspired us to move to a Defi Ecosystem by integrating our 1st generation blockchains to a descentralized protocol who connects to the most popular networks as Binance Smart Chain, Polygon Network, Tron and Ethereum.
+[StrongHands Finance](https://coinmarketcap.com/currencies/stronghands-finance/markets/) (ISHND) is a Token of the StrongHands Crosschain ecosystem. An increasing demand among our community inspired us to move to a [DeFi](https://academy.binance.com/en/glossary/defi) Ecosystem by integrating our 1st generation blockchains to a descentralized protocol who connects to the most popular networks as BNB Smart Chain, Polygon Network, Tron and Ethereum.
 
 iSHND aims to make token trading easy to newbie users, while improving efficiency of trading versus de CEX exchanges.
 
@@ -22,19 +22,51 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 
 ## DeFi CrossChain dApps
 
-Crosschain bridge, Swap/Liquidity Pools, Yield Farms, Futures, Lending and many other dApps, available at Descentralized and Centralized platforms in Binance, Ethereum, Solana, Tron and Polygon Networks.
+[Crosschain Bridge](https://pontem.network/posts/understanding-cross-chain-bridges), [Swaps](https://academy.binance.com/en/articles/atomic-swaps-explained), [Liquidity Pools](https://www.gemini.com/cryptopedia/what-is-a-liquidity-pool-crypto-market-liquidity), [Yield Farms](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi) and other [dApps](https://cointelegraph.com/defi-101/what-are-dapps-everything-there-is-to-know-about-decentralized-applications), available at Descentralized and Centralized platforms in Binance, Ethereum, Solana, Tron and Polygon Networks.
 
 ## The Future of StrongHands
 
-iSHND is born to bring equity and liquidity to the whole StrongHands ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. Our purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
+iSHND is born to bring equity and liquidity to the whole [StrongHands](http://wwww.stronghands.io) ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. Our purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
   
-## Resources
 
-  Website: http://www.stronghands.info and http://wwww.stronghands.io
+  ## Resources
+
+  * Website: http://www.stronghands.info and http://wwww.stronghands.io
+  * [Litepaper](https://github.com/stronghandsblockchain/iSHND-NewSource/blob/main/Litepaper.pdf)
   
-  Contract Address: [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
   
-  [Litepaper](https://github.com/stronghandsblockchain/iSHND-NewSource/blob/main/Litepaper.pdf)
+## Smart Contracts
+  
+  ### Phase 1
+  
+  * Implemented: 
+    * BNB Chain: [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
+  
+  * Under Integration:
+    * Ethereum
+    * Polygon
+    * Tron
+  
+  
+  
+  ### Phase 2
+  
+  * Planned:
+  
+    * Solana
+    * Avalanche
+    * Pulse Chain
+    * Fantom
+    * Polkadot
+  
+  
+## Exchanges
+  
+  * Bibox: [iSHND/USDT](https://www.bibox.com/zh/exchange/basic/ISHND_USDT)
+  * Coinsbit:[iSHND/USDT](https://coinsbit.io/pt/trade/iSHND_USDT)
+  * Catex: [iSHND/USDT](https://www.catex.io/trading/ISHND/USDT) 
+  * AzBit: [iSHND/USDT](https://azbit.com/exchange/ISHND_USDT) | [iSHND/BNB](https://azbit.com/exchange/ISHND_BNB) | [iSHND/BTC](https://azbit.com/exchange/ISHND_BTC)) | [iSHND/ETH](https://azbit.com/exchange/ISHND_ETH) | [iSHND/TRX](https://azbit.com/exchange/ISHND_TRX)
+  
   
 ## Official Social Media
   
