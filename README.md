@@ -57,7 +57,7 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
   
 <p align="right">(<a href="#top">back to top</a>)</p>  
   
-## Exchanges
+## Centralized Exchanges
   
   * Bibox: [iSHND/USDT](https://www.bibox.com/zh/exchange/basic/ISHND_USDT)
   * Coinsbit:[iSHND/USDT](https://coinsbit.io/pt/trade/iSHND_USDT)
