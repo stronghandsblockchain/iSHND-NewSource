@@ -1,13 +1,14 @@
+<div id="top"></div>
 <p align="center">
   <img width="200" height="200" src="https://github.com/stronghandsblockchain/Logos/blob/main/ISHND/svg/STRONGHANDS%20-%201.svg">
 
+ ![](https://img.shields.io/badge/Token-Crosschain-informational?style=for-the-badge&logo=F0B90B)
+ ![](https://img.shields.io/github/languages/top/stronghandsblockchain/ISHND-NewSource?style=for-the-badge)
+ ![In Development](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
+ [![Discord](https://img.shields.io/discord/396700779618107394?style=for-the-badge)](https://discord.gg/WrA8TNXaa5)
+ [![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)](https://twitter.com/shndofficial)
+ [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)](https://www.reddit.com/r/stronghandsblockchain/)
 
-![](https://img.shields.io/badge/Token-Crosschain-informational?style=for-the-badge&logo=F0B90B)
-![](https://img.shields.io/github/languages/top/stronghandsblockchain/ISHND-NewSource?style=for-the-badge)
-![In Development](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
-[![Discord](https://img.shields.io/discord/396700779618107394?style=for-the-badge)](https://discord.gg/WrA8TNXaa5)
-[![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)](https://twitter.com/shndofficial)
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)](https://www.reddit.com/r/stronghandsblockchain/)
 
 
 # About [StrongHands Finance](https://coinmarketcap.com/currencies/stronghands-finance/markets/) 
@@ -16,7 +17,7 @@
 
 iSHND aims to make token trading easy to newbie users, while improving efficiency of trading versus de CEX exchanges.
 
-Multichain Ecosystem: We are one of the first Blockchain community to give access to all the blockchain technology available: SHND Sha256 coin (minning and stake), SHMN (PIVX Fork Masternode) ISHND (MultiChain DeFi Token).
+Multichain Ecosystem: We are one of the first Blockchain community to give access to all the blockchain technology available: SHND SHA256D coin (mining and stake), SHMN (PIVX Fork Masternode) iSHND (MultiChain DeFi Token).
 
 Transparent trading: iSHND will be one of the most popular tokens traded in decentralized exchanges. No signup, non custodial and no counterparty risk.
 
@@ -26,7 +27,7 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 
 ## The Future of StrongHands
 
-iSHND is born to bring equity and liquidity to the whole [StrongHands](http://wwww.stronghands.io) ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. Our purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
+iSHND is born to bring equity and liquidity to the whole [StrongHands](http://wwww.stronghands.io) ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. The main purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
   
 
   ## Resources
@@ -37,28 +38,24 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
   
 ## Smart Contracts
   
-  ### Phase 1
+* Phase 1
   
-  * Implemented: 
-    * BNB Chain: [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
-  
-  * Under Integration:
-    * Ethereum
-    * Polygon
-    * Tron
+    - [x] BNB Chain: [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
+    - [ ] Ethereum
+    - [ ] Polygon
+    - [ ] Tron
   
   
   
-  ### Phase 2
+ * Phase 2
   
-  * Planned:
+    - [ ] Solana
+    - [ ] Avalanche
+    - [ ] Pulse Chain
+    - [ ] Fantom
+    - [ ] Polkadot
   
-    * Solana
-    * Avalanche
-    * Pulse Chain
-    * Fantom
-    * Polkadot
-  
+<p align="right">(<a href="#top">back to top</a>)</p>  
   
 ## Exchanges
   
@@ -99,6 +96,6 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
   * 🇷🇺 [Telegram Russia](https://t.me/StrongHandsRussia)
   
   
-  
+  <p align="right">(<a href="#top">back to top</a>)</p>  
   
 
