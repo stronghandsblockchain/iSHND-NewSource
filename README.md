@@ -27,12 +27,12 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 
 ## The Future of StrongHands
 
-iSHND is born to bring equity and liquidity to the whole [StrongHands](http://wwww.stronghands.io) ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. The main purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
+iSHND is born to bring equity and liquidity to the whole [StrongHands](http://www.stronghands.io) ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. The main purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
   
 
   ## Resources
 
-  * Website: http://www.stronghands.info and http://wwww.stronghands.io
+  * Website: http://www.stronghands.info and http://www.stronghands.io
   * [Litepaper](https://github.com/stronghandsblockchain/iSHND-NewSource/blob/main/Litepaper.pdf)
   
   
@@ -40,7 +40,7 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
   
 * Phase 1
   
-    - [x] BNB Chain: [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
+    - [x] BNB Chain:  [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
     - [ ] Ethereum
     - [ ] Polygon
     - [ ] Tron
