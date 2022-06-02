@@ -41,9 +41,9 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
 * Phase 1
   
     - [x] BNB Chain:  [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
-    - [ ] Ethereum
-    - [ ] Polygon
-    - [ ] Tron
+    - [x] Ethereum [0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf](https://etherscan.io/token/0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf)
+    - [x] Polygon [0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf](https://polygonscan.com/token/0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf)
+    - [x] Tron [TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No](https://tronscan.org/#/contract/TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No)
   
   
   
