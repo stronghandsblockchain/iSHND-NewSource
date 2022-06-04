@@ -63,6 +63,12 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
   * Coinsbit:[iSHND/USDT](https://coinsbit.io/pt/trade/iSHND_USDT)
   * Catex: [iSHND/USDT](https://www.catex.io/trading/ISHND/USDT) 
   * AzBit: [iSHND/USDT](https://azbit.com/exchange/ISHND_USDT) | [iSHND/BNB](https://azbit.com/exchange/ISHND_BNB) | [iSHND/BTC](https://azbit.com/exchange/ISHND_BTC)) | [iSHND/ETH](https://azbit.com/exchange/ISHND_ETH) | [iSHND/TRX](https://azbit.com/exchange/ISHND_TRX)
+
+## Decentralized Exchanges
+
+  * Uniswap (coming soon)
+  * Quickswap (coming soon)
+  * StrongHands Finance (coming soon)
   
   
 ## Official Social Media
@@ -94,7 +100,9 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
   * 🇯🇵 [Telegram Japan](https://t.me/StrongHands_Japan)
   * 🇹🇷 [Telegram Turkish](https://t.me/StrongHandsTurkey)
   * 🇷🇺 [Telegram Russia](https://t.me/StrongHandsRussia)
-  
+
+
+  ### All token balances, contract ownerships and project funds guaranteed on [Gnosis Safe](https://gnosis-safe.io/app/) 
   
   <p align="right">(<a href="#top">back to top</a>)</p>  
   
