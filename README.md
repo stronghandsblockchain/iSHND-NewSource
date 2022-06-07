@@ -59,16 +59,16 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
   
 ## Centralized Exchanges
   
-  * Bibox: [iSHND/USDT](https://www.bibox.com/zh/exchange/basic/ISHND_USDT)
-  * Coinsbit:[iSHND/USDT](https://coinsbit.io/pt/trade/iSHND_USDT)
-  * Catex: [iSHND/USDT](https://www.catex.io/trading/ISHND/USDT) 
-  * AzBit: [iSHND/USDT](https://azbit.com/exchange/ISHND_USDT) | [iSHND/BNB](https://azbit.com/exchange/ISHND_BNB) | [iSHND/BTC](https://azbit.com/exchange/ISHND_BTC)) | [iSHND/ETH](https://azbit.com/exchange/ISHND_ETH) | [iSHND/TRX](https://azbit.com/exchange/ISHND_TRX)
+  - [x] Bibox: [iSHND/USDT](https://www.bibox.com/zh/exchange/basic/ISHND_USDT)
+  - [x] Coinsbit:[iSHND/USDT](https://coinsbit.io/pt/trade/iSHND_USDT)
+  - [x] Catex: [iSHND/USDT](https://www.catex.io/trading/ISHND/USDT) 
+  - [x] AzBit: [iSHND/USDT](https://azbit.com/exchange/ISHND_USDT) | [iSHND/BNB](https://azbit.com/exchange/ISHND_BNB) | [iSHND/BTC](https://azbit.com/exchange/ISHND_BTC)) | [iSHND/ETH](https://azbit.com/exchange/ISHND_ETH) | [iSHND/TRX](https://azbit.com/exchange/ISHND_TRX)
 
 ## Decentralized Exchanges
 
-  * Uniswap (coming soon)
-  * Quickswap (coming soon)
-  * StrongHands Finance (coming soon)
+  - [ ] Uniswap (coming soon)
+  - [ ] Quickswap (coming soon)
+  - [ ] StrongHands Finance (coming soon)
   
   
 ## Official Social Media
