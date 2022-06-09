@@ -34,6 +34,7 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
 
   * Website: http://www.stronghands.info and http://www.stronghands.io
   * [Litepaper](https://github.com/stronghandsblockchain/iSHND-NewSource/blob/main/Litepaper.pdf)
+  * [Audit Report from Rock'n'Block (first contract)](https://github.com/Rock-n-Block/AUDIT/blob/main/ISHND)
   
   
 ## Smart Contracts
