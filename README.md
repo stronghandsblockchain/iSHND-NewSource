@@ -69,8 +69,8 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
 
 ## Decentralized Exchanges
 
-  - [ ] Uniswap (coming soon)
-  - [ ] Quickswap (coming soon)
+  - [x] Uniswap: [ISHND/WETH](https://www.dextools.io/app/ether/pair-explorer/0xc6fbd718d5378a809d3bedef4449bdee553941ef)
+  - [x] Quickswap: [ISHND/WMATIC](https://info.quickswap.exchange/#/pair/0x9845d6bd5602c301c8d0be3f0a258c7331e65681)
   - [ ] StrongHands Finance (coming soon)
   
   
