@@ -27,7 +27,7 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 
 ## DeFi CrossChain dApps
 
-[Crosschain Bridge](https://pontem.network/posts/understanding-cross-chain-bridges), [Swaps](https://academy.binance.com/en/articles/atomic-swaps-explained), [Liquidity Pools](https://www.gemini.com/cryptopedia/what-is-a-liquidity-pool-crypto-market-liquidity), [Yield Farms](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi) and other [dApps](https://cointelegraph.com/defi-101/what-are-dapps-everything-there-is-to-know-about-decentralized-applications), available at Descentralized and Centralized platforms in Binance, Ethereum, Solana, Tron and Polygon Networks.
+[Crosschain Bridge](https://pontem.network/posts/understanding-cross-chain-bridges), [Swaps](https://academy.binance.com/en/articles/atomic-swaps-explained), [Liquidity Pools](https://www.gemini.com/cryptopedia/what-is-a-liquidity-pool-crypto-market-liquidity), and other [dApps](https://cointelegraph.com/defi-101/what-are-dapps-everything-there-is-to-know-about-decentralized-applications), available at Descentralized and Centralized platforms in Binance, Ethereum, Solana, Tron and Polygon Networks.
 
   ## Resources
 
