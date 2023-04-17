@@ -15,7 +15,11 @@
   
 [StrongHands Finance](https://coinmarketcap.com/currencies/stronghands-finance/markets/) (ISHND) is a Token of the StrongHands Crosschain ecosystem. An increasing demand among our community inspired us to move to a [DeFi](https://academy.binance.com/en/glossary/defi) Ecosystem by integrating our 1st generation blockchains to a descentralized protocol who connects to the most popular networks as BNB Smart Chain, Polygon Network, Tron and Ethereum.
 
-iSHND aims to make token trading easy to newbie users, while improving efficiency of trading versus de CEX exchanges.
+ISHND is the finance utility token of StrongHands BlockChain Ecosystem. It was designed to be a turning point on DeFi, bringing 1st generation coins into the ecosystem, collateralizing with tokens available in StrongHands Finance Swap Platform. It will offer many dApps and low fees to diversify investment in the decentralized economy.
+
+ISHND will have an important role balancing the whole ecosystem and creating liquidity for all projects listed. Also, it provides rewards and passive income in different coins and tokens.
+
+Platform is being architected to become faster and clearer for users, paying fair APR staking and farming iSHND, as well as other tokens. The differential concept already established is meant to be the turning point of our project: the CrossChain/ MultiChain platform, which will allow users to switch chains whenever they like from BNB Chain to ETH, TRX, SOL, Polygon and others. The achievement of such a possibility is to integrate iSHND and turn it into a agile and reliable tool, avoiding common issues like blockchain congestion and high gas pricing.
 
 Multichain Ecosystem: We are one of the first Blockchain community to give access to all the blockchain technology available: SHND SHA256D coin (mining and stake), SHMN (PIVX Fork Masternode) iSHND (MultiChain DeFi Token).
 
@@ -24,11 +28,6 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 ## DeFi CrossChain dApps
 
 [Crosschain Bridge](https://pontem.network/posts/understanding-cross-chain-bridges), [Swaps](https://academy.binance.com/en/articles/atomic-swaps-explained), [Liquidity Pools](https://www.gemini.com/cryptopedia/what-is-a-liquidity-pool-crypto-market-liquidity), [Yield Farms](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi) and other [dApps](https://cointelegraph.com/defi-101/what-are-dapps-everything-there-is-to-know-about-decentralized-applications), available at Descentralized and Centralized platforms in Binance, Ethereum, Solana, Tron and Polygon Networks.
-
-## The Future of StrongHands
-
-iSHND is born to bring equity and liquidity to the whole [StrongHands](http://www.stronghands.io) ecosystem. Our talented Team and the vibrating community will guide the future of StrongHands by constantly pursuing the cutting edge of technology. The main purpose is to bring people dignity, wealth distribution and a pulsating decentralized economy.
-  
 
   ## Resources
 
@@ -72,6 +71,8 @@ iSHND is born to bring equity and liquidity to the whole [StrongHands](http://ww
 
   - [x] Uniswap: [ISHND/WETH](https://www.dextools.io/app/ether/pair-explorer/0xc6fbd718d5378a809d3bedef4449bdee553941ef)
   - [x] Quickswap: [ISHND/WMATIC](https://info.quickswap.exchange/#/pair/0x9845d6bd5602c301c8d0be3f0a258c7331e65681)
+  - [x] Pancakeswap [ISHND/BNB] (https://pancakeswap.finance/swap?outputCurrency=0x1cc1aca0dae2d6c4a0e8ae7b4f2d01eabbc435ee)
+  - [x] Babydoge Swap [ISHND/Babydoge] (https://babydogeswap.com/swap?outputCurrency=0x1cc1aca0dae2d6c4a0e8ae7b4f2d01eabbc435ee)
   - [ ] StrongHands Finance (coming soon)
   
   
