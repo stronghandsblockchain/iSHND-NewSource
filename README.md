@@ -46,15 +46,15 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
     - [x] BNB Chain:  [0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE](https://bscscan.com/token/0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
     - [x] Ethereum [0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf](https://etherscan.io/token/0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf)
     - [x] Polygon [0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf](https://polygonscan.com/token/0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf)
-    - [x] Tron [TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No](https://tronscan.org/#/contract/TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No)
+    - [x] Tron [TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No](https://tronscan.org/#/contract/TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No
   
   
   
  * Phase 2
   
+    - [x] Pulsechain [0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf](https://scan.pulsechain.com/token/0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf)
     - [ ] Solana
     - [ ] Avalanche
-    - [ ] Pulse Chain
     - [ ] Fantom
     - [ ] Polkadot
   
@@ -69,11 +69,11 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 
 ## Decentralized Exchanges
 
+  - [x] StrongHands Finance [ISHND/WBNB](https://dex.stronghands.io/swap?inputCurrency=ETH&outputCurrency=0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE) [ISHND/USDT](https://dex.stronghands.io/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955&outputCurrency=0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE) [ISHND/BUSD](https://dex.stronghands.io/swap?inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56&outputCurrency=0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
   - [x] Uniswap: [ISHND/WETH](https://www.dextools.io/app/ether/pair-explorer/0xc6fbd718d5378a809d3bedef4449bdee553941ef)
   - [x] Quickswap: [ISHND/WMATIC](https://info.quickswap.exchange/#/pair/0x9845d6bd5602c301c8d0be3f0a258c7331e65681)
   - [x] Pancakeswap [ISHND/BNB](https://pancakeswap.finance/swap?outputCurrency=0x1cc1aca0dae2d6c4a0e8ae7b4f2d01eabbc435ee)
   - [x] Babydoge Swap [ISHND/Babydoge](https://babydogeswap.com/swap?outputCurrency=0x1cc1aca0dae2d6c4a0e8ae7b4f2d01eabbc435ee)
-  - [ ] StrongHands Finance (coming soon)
   
   
 ## Official Social Media
