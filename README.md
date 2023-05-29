@@ -69,11 +69,11 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 
 ## Decentralized Exchanges
 
+  - [x] StrongHands DEX: [ISHND/WBNB](https://dex.stronghands.io/swap?inputCurrency=ETH&outputCurrency=0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE)
   - [x] Uniswap: [ISHND/WETH](https://www.dextools.io/app/ether/pair-explorer/0xc6fbd718d5378a809d3bedef4449bdee553941ef)
   - [x] Quickswap: [ISHND/WMATIC](https://info.quickswap.exchange/#/pair/0x9845d6bd5602c301c8d0be3f0a258c7331e65681)
   - [x] Pancakeswap [ISHND/BNB](https://pancakeswap.finance/swap?outputCurrency=0x1cc1aca0dae2d6c4a0e8ae7b4f2d01eabbc435ee)
   - [x] Babydoge Swap [ISHND/Babydoge](https://babydogeswap.com/swap?outputCurrency=0x1cc1aca0dae2d6c4a0e8ae7b4f2d01eabbc435ee)
-  - [ ] StrongHands Finance (coming soon)
   
   
 ## Official Social Media
