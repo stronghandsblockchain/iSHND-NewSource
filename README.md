@@ -52,9 +52,9 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
   
  * Phase 2
   
+    - [x] Pulsechain: [0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf](https://scan.pulsechain.com/token/0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf)
     - [ ] Solana
     - [ ] Avalanche
-    - [ ] Pulse Chain
     - [ ] Fantom
     - [ ] Polkadot
   
