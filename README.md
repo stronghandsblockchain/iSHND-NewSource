@@ -6,7 +6,7 @@
  ![](https://img.shields.io/github/languages/top/stronghandsblockchain/ISHND-NewSource?style=for-the-badge)
  ![In Development](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
  [![Discord](https://img.shields.io/discord/396700779618107394?style=for-the-badge)](https://discord.gg/WrA8TNXaa5)
- [![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)](https://twitter.com/shndofficial)
+ [![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)](https://twitter.com/shndxofficial)
  [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)](https://www.reddit.com/r/stronghandsblockchain/)
 
 
@@ -63,9 +63,7 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
 ## Centralized Exchanges
   
   - [x] Bibox: [iSHND/USDT](https://www.bibox.com/zh/exchange/basic/ISHND_USDT)
-  - [x] Coinsbit:[iSHND/USDT](https://coinsbit.io/pt/trade/iSHND_USDT)
-  - [x] Catex: [iSHND/USDT](https://www.catex.io/trading/ISHND/USDT) 
-  - [x] AzBit: [iSHND/USDT](https://azbit.com/exchange/ISHND_USDT) | [iSHND/BNB](https://azbit.com/exchange/ISHND_BNB) | [iSHND/BTC](https://azbit.com/exchange/ISHND_BTC)) | [iSHND/ETH](https://azbit.com/exchange/ISHND_ETH) | [iSHND/TRX](https://azbit.com/exchange/ISHND_TRX)
+
 
 ## Decentralized Exchanges
 
@@ -82,7 +80,7 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
   * [Discord](https://discord.com/invite/WrA8TNXaa5)
   * [Telegram Channel](https://t.me/stronghandsofficial)
   * [Telegram Global Chat](https://t.me/StrongHands)
-  * [Twitter](https://twitter.com/shndofficial)
+  * [Twitter](https://twitter.com/shndxofficial)
   * [Reddit](https://www.reddit.com/r/stronghandsblockchain/)
   * [Facebook](https://www.facebook.com/shndchain)
   * [Instagram](https://www.instagram.com/stronghandsblockchain/)
@@ -90,22 +88,7 @@ Transparent trading: iSHND will be one of the most popular tokens traded in dece
   * [Youtube](https://www.youtube.com/channel/UCazb7de4MDBFaWvnoCPvN-Q)
   
   
-  ### International Communities
   
-  * 🇯🇵 [Discord Japan](https://discord.gg/566pKM6)
-  * 🇻🇳 [Discord Vietnam](https://discord.gg/UTBB8CHxbK)
-  * 🌍 [Telegram Africa (French)](https://t.me/StrongHandsAfrica)
-  * 🇧🇷 [Telegram Brazil](https://t.me/StrongHandsBrasil)
-  * 🇮🇩 [Telegram Bahasa/Indonesian](https://t.me/StrongHandsIndonesia)
-  * 🇧🇩 [Telegram Bangladesh](https://t.me/StrongHandsBangladesh)
-  * 🇪🇸 [Telegram Castellano/Spanish](https://t.me/StrongHandsCastellano)
-  * 🇳🇱 [Telegram Dutch](https://t.me/StrongHandsDutch)
-  * 🇫🇷 [Telegram French](https://t.me/StrongHandsFrance)
-  * 🇮🇳 [Telegram Hindi](https://t.me/StrongHandsHindi)
-  * 🇯🇵 [Telegram Japan](https://t.me/StrongHands_Japan)
-  * 🇹🇷 [Telegram Turkish](https://t.me/StrongHandsTurkey)
-  * 🇷🇺 [Telegram Russia](https://t.me/StrongHandsRussia)
-
 
   ### All token balances, contract ownerships and project funds guaranteed on [Gnosis Safe](https://gnosis-safe.io/app/) 
   
